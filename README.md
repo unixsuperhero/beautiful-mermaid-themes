@@ -32,7 +32,7 @@ This URL requires GitHub Pages to be enabled. It is not a live preview of the re
 - `context-<theme>.svg`, `frames-<theme>.svg`, and `objects-<theme>.svg` are the themed exports.
 - The SVGs without a theme suffix and the three PNGs are the original exports.
 
-The examples depict context lookups, active frames, and object references from Ochazuke. They provide consistent sample content for comparing themes. The gallery still uses the original Ochazuke heading and includes a walkthrough link whose target is not part of this repository.
+The examples depict context lookups, active frames, and object references from Ochazuke. They provide consistent sample content for comparing themes.
 
 ## Themes
 
